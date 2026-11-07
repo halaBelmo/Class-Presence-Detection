@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+dataset/
+presence.csv
+presence.db
+presence.db-shm
+presence.db-wal
